@@ -1,8 +1,5 @@
 # README: Yulu Business Case Analysis
 
-# Yulu_BusinessCase
-This repository contains the analysis and findings for Yulu, India's leading micro-mobility service provider, to understand the factors influencing the demand for shared electric cycles in the Indian market. 
-
 ## Overview
 This repository contains the analysis and findings for Yulu, India's leading micro-mobility service provider, to understand the factors influencing the demand for shared electric cycles in the Indian market. The goal of this analysis is to identify significant variables that predict demand and provide actionable recommendations to address the revenue dip experienced by Yulu.
 
